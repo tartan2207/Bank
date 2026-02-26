@@ -1,0 +1,19 @@
+# Настройки IDE (PyCharm, VS Code)
+.idea/
+.vscode/
+*.swp
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Сборка и логи
+dist/
+build/
+*.log
