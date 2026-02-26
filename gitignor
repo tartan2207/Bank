@@ -19,6 +19,7 @@ build/
 *.log
 
 **/__pycache__/
-
+*.xml
+*.iml
 
 
