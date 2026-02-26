@@ -17,3 +17,6 @@ ENV/
 dist/
 build/
 *.log
+
+__pycache__/
+*.py[cod]
